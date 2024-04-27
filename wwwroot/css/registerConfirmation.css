@@ -1,0 +1,62 @@
+﻿* {
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
+.register-confirmation-container {
+    border: none;
+    background-color: white;
+    margin: 10px;
+    height: fit-content;
+    margin-left: 530px;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+
+
+h4 {
+    font-size: 17px;
+    font-weight: 200;
+    line-height: 25px;
+    color: rgb(97, 97, 97);
+    background-color:inherit;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.ok {
+    background-color: inherit;
+    padding: 40px 30px;
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+h1 {
+    font-size: 25px;
+    margin-top:15px;
+}
+
+img {
+    width: 239px;
+    height: 169px;
+}
+
+#confirm-link {
+    text-decoration: none;
+    background-color: var(--main-bg-color);
+    color: white;
+    padding: 12px 34px;
+    border-radius: 9px;
+}
+
+    #confirm-link:hover {
+        background-color: var(--main-bg-color-hover);
+        text-decoration: none;
+        color: white;
+    }

@@ -1,0 +1,61 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/login.css" />
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+<main>
+
+    <div class="login-container">
+        <img src="~/img/icon 2.png" />
+        <form id="account" method="post" runat="server">
+            <asp:Login id="Login1" runat="server"
+                       DestinationPageUrl="~/Account/Logout">
+            </asp:Login>
+            <div asp-validation-summary="All"></div>
+            <div>
+                <input autocomplete="off" class="champ" asp-for="Input.Email" placeholder="Email" />
+            </div>
+            <div>
+                <input autocomplete="off" class="champ" asp-for="Input.Password" placeholder="Password" />
+            </div>
+            <div class="links">
+                <a class="back-link" id="forgot-password" asp-page="./ForgotPassword">Forgot Password?</a>
+                <a class="back-link" asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register</a>
+            </div>
+            <div class="buttons">
+                <button class="login-btn" type="submit">Log in</button>
+                <p>Copyright ©2022 lifeReminder. Inc</p>
+            </div>
+        </form>
+    </div>
+</main>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

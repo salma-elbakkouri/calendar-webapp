@@ -1,0 +1,846 @@
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.ResolveComReference.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\libman.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.StaticWebAssets.xml
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.exe
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.deps.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ref\calendarWebApp.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.pdb
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\SendGrid.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.xml
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\scopedcss\bundle\calendarWebApp.styles.css
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.input.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.output.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Content\templates\WelcomeEmail.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\ShowSearchForm.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CopyComplete
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\ref\calendarWebApp.dll
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.pdb
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.genruntimeconfig.cache
+C:\Users\hp\source\repos\CalendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\main.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\libman.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.StaticWebAssets.xml
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.exe
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.deps.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ref\calendarWebApp.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.pdb
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\SendGrid.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.ResolveComReference.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.xml
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\scopedcss\bundle\calendarWebApp.styles.css
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.input.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.output.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Content\templates\WelcomeEmail.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\ShowSearchForm.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\main.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CopyComplete
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\ref\calendarWebApp.dll
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.pdb
+C:\Users\hp\source\repos\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.genruntimeconfig.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.Development.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\libman.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.StaticWebAssets.xml
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.exe
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.deps.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.dev.json
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.pdb
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.pdb
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.Core.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.SqlServer.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Humanizer.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Web.Http.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\SendGrid.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\StarkbankEcdsa.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr-TR\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.AssemblyReference.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.ResolveComReference.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfoInputs.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfo.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CoreCompileInputs.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\scopedcss\bundle\calendarWebApp.styles.css
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.Manifest.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.xml
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.input.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.output.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorCoreGenerate.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Content\templates\WelcomeEmail.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Create.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Delete.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Edit.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Index.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\ShowSearchForm.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\main.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cs
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.Views.pdb
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CopyComplete
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\refint\calendarWebApp.dll
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.pdb
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.genruntimeconfig.cache
+E:\source\calendarWebApp_1\calendarWebApp\calendarWebApp\obj\Debug\net5.0\ref\calendarWebApp.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\libman.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.StaticWebAssets.xml
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.exe
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.deps.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.pdb
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.AspNetCore.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.Core.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Hangfire.SqlServer.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\SendGrid.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ca\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fa\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nb\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\nl\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-PT\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr-TR\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-TW\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh\Hangfire.Core.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.ResolveComReference.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorAssemblyInfo.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\scopedcss\bundle\calendarWebApp.styles.css
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.Manifest.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\staticwebassets\calendarWebApp.StaticWebAssets.xml
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.input.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.TagHelpers.output.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorCoreGenerate.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Content\templates\WelcomeEmail.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Create.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Delete.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Edit.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\Index.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Events\ShowSearchForm.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\main.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.Views.pdb
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.csproj.CopyComplete
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\refint\calendarWebApp.dll
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.pdb
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\calendarWebApp.genruntimeconfig.cache
+C:\Users\salma\OneDrive\Bureau\soutenance pfe\calendarWebApp\calendarWebApp\obj\Debug\net5.0\ref\calendarWebApp.dll

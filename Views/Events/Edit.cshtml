@@ -1,0 +1,56 @@
+﻿@model calendarWebApp.Models.Event
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/edit.css" />
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+<div class="edit-container">
+
+
+    <form asp-action="Edit">
+        <h1>Edit <span class="change-color">Event</span></h1>
+        <div asp-validation-summary="ModelOnly"></div>
+        <input type="hidden" asp-for="id" />
+        <div>
+            <input asp-for="name" placeholder="name" />
+            <span asp-validation-for="name"></span>
+        </div>
+        <div>
+            <input asp-for="desc" placeholder="description" />
+            <span asp-validation-for="desc"></span>
+        </div>
+
+        <div>
+            <input asp-for="date" placeholder="date" />
+            <span asp-validation-for="date"></span>
+        </div>
+        <div class="buttons">
+            <input class="edit-btn" type="submit" value="Save" />
+            <a class="back-link" asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

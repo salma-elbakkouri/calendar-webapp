@@ -1,0 +1,57 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/register.css" />
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+<div class="register-container">
+    <img src="~/img/icon 2.png" />
+    <form autocomplete="off" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <h1>
+            Create a <span class="change-color">new account</span>
+        </h1>
+        <div asp-validation-summary="All"></div>
+        <div>
+            <input autocomplete="off" asp-for="Input.Email" placeholder="email" />
+            <span asp-validation-for="Input.Email"></span>
+        </div>
+        <div>
+            <input autocomplete="off" asp-for="Input.Password" placeholder="password" />
+            <span asp-validation-for="Input.Password"></span>
+        </div>
+        <div>
+            <input autocomplete="off" asp-for="Input.ConfirmPassword" placeholder="confirm password" />
+            <span asp-validation-for="Input.ConfirmPassword"></span>
+        </div>
+        <div class="buttons">
+            <button class="register-btn" type="submit">Register</button>
+            <a class="back-link" asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">already have an account? Log In</a>
+
+        </div>
+
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

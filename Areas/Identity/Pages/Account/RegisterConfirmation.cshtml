@@ -1,0 +1,61 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Register confirmation";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/registerConfirmation.css" />
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+@{
+    if (@Model.DisplayConfirmAccountLink)
+    {
+        <div class="register-confirmation-container">
+            <div class="ok">
+
+
+                <img src="~/img/emailtwo.png" />
+                <h1>Confirm your email adress</h1>
+                <h4>
+                    Please click on the button below to validate your<br> email adress and confirm that you are the owner <br>of this account
+                </h4>
+
+                <a id="confirm-link" href="@Model.EmailConfirmationUrl">Confirm your account</a>
+
+            </div>
+
+        </div>
+        //
+        /*   <div class="register-confirmation-container">
+               <p>
+                   <img src="~/img/Confirm-email.jpg" />
+                   This app does not currently have a real email sender registered, see <a href="https://aka.ms/aspaccountconf">these docs</a> for how to configure a real email sender.
+                   Normally this would be emailed: <a id="confirm-link" href="@Model.EmailConfirmationUrl">Click here to confirm your account</a>
+               </p>
+           </div>*/
+
+    }
+    else
+    {
+        <p>
+            Please check your email to confirm your account.
+        </p>
+    }
+}

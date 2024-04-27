@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\salma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\salma\\.nuget\\packages"
+    ]
+  }
+}

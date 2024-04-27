@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<div class="whole-page">
+
+
+    <nav id="navbar">
+        <div class="verticalNav">
+            <div class="month-changer">
+                <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+                <div id="month-header">
+                </div>
+                <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+            </div>
+            <div>
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+                <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+                <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+            </div>
+
+        </div>
+
+    </nav>
+    <div>
+        <section>
+            @if (User.Identity.IsAuthenticated)
+
+            {<div class="logo-name">
+                    <img src="/img/logo app 1.png">
+                    <h2>lifeReminder</h2>
+                </div>
+                <div class="logout-hello">
+                    <form method="post" asp-area="Identity" asp-page="/Account/Logout">
+                        <input type="submit" value="Logout" />
+                    </form>
+
+                    <h1 class="hello-user">Hello @User.Identity.Name.Substring(0, @User.Identity.Name.IndexOf("@")) :)</h1>
+
+                </div>}
+            else
+            {
+                <div class="logo-name">
+                    <img src="/img/logo app 1.png">
+                    <h2>lifeReminder</h2>
+                </div>
+                <div class="login-register">
+                    <a asp-area="Identity" asp-page="/Account/Register">Register</a>
+                    <a asp-area="Identity" asp-page="/Account/Login">Login</a>
+                </div>
+
+
+            }
+        </section>
+        <div class="calendarContainer">
+
+            <h1 id="currentDate"></h1>
+
+            <div class="calendar" id="table">
+
+            </div>
+            <div>
+                <button class="today-btn" onclick="resetDate()">today</button>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</div>

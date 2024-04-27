@@ -1,0 +1,92 @@
+﻿*,body
+{
+    background-color:white;
+}
+
+
+
+.gray-space {
+    background-color: #323a45;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 1132px;
+}
+
+#events-icon {
+    background-color: transparent;
+    font-size: 22px;
+    color: white;
+    margin-right:10px
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: inherit;
+}
+
+
+table {
+    width: 1132px;
+    background-color: white;
+    margin-top:12px;
+}
+    table > thead {
+        border-top: 1px solid #d6d6d6;
+    }
+tr > th {
+    padding: 10px 30px;
+    color: #b3b3b3;
+    font-weight:400;
+}/*color: #d2d2d2;*/
+tr > td {
+    border-top: 1px solid #d6d6d6;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 10px 30px;
+    background-color: white;
+    color: #727272;
+    font-weight:600;
+}
+.events-top-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1132px;
+    padding: 10px;
+}
+.create-btn {
+    cursor: pointer;
+    padding: 6px 24px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+}
+.create-btn>i
+{
+    background-color:inherit;
+    padding-right:7px;
+    font-size:17px;
+}
+    .create-btn:hover {
+        text-decoration: none;
+        color: white;
+        background-color: var(--main-bg-color-hover);
+    }
+    .edit-btn>i, .details-btn>i, .delete-btn>i
+    {
+        color:#727272;
+    }
+.edit-btn > i:hover, .details-btn > i:hover, .delete-btn > i:hover {
+    color: #454545;
+}
+.edit-btn>i
+ {
+     padding-right:25px;
+     padding-left:10px;
+ }

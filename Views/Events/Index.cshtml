@@ -1,0 +1,83 @@
+﻿@model IEnumerable<calendarWebApp.Models.Event>
+@using Microsoft.AspNetCore.Identity
+@using static calendarWebApp.Models.userClass
+@inject UserManager<userClass> UserManager
+@inject SignInManager<userClass> SignInManager
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/events.css" />
+<div class="whole-page">
+    <nav id="navbar">
+        <div class="verticalNav">
+            <div class="month-changer">
+                <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+                <div id="month-header">
+                </div>
+                <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+            </div>
+            <div>
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+                <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+                <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+            </div>
+
+        </div>
+
+    </nav>
+
+    <div class="events-container">
+        <div class="events-top-container">
+            <h3>Events List</h3>
+
+            <a class="create-btn" asp-action="Create"><i class="fa-solid fa-calendar-plus"></i>Create New</a>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.name)
+                    </th>
+                    <th>
+                        description
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.date)
+                    </th>
+                    <th>operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.desc)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.date)
+                            </td>
+                            <td class="operations">
+                                <a class="edit-btn" asp-action="Edit" asp-route-id="@item.id"><i class="fa-solid fa-pen-to-square"></i></a>
+
+                                <a class="delete-btn" asp-action="Delete" asp-route-id="@item.id"><i class="fa-solid fa-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

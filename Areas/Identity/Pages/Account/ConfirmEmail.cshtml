@@ -1,0 +1,32 @@
+﻿@page
+@model ConfirmEmailModel
+@{
+    ViewData["Title"] = "Confirm email";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/confirmEmail.css" />
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+<div class="confirm-email-container">
+
+    <h1>your account is now verified please Log in !</h1>
+    <a asp-area="Identity" asp-page="/Account/Login">Log in</a>
+
+</div>

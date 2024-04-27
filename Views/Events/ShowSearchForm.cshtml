@@ -1,0 +1,38 @@
+﻿<link rel="stylesheet" href="~/css/search.css" />
+<link rel="icon" href="./img/logo app 1.png">
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+<div class="search-container">
+
+    <form asp-action="ShowSearchResults">
+        <h1> Search For An <span>Event</span></h1>
+        <div asp-validation-summary="ModelOnly"></div>
+        <div>
+            <input placeholder="name" name="SearchPhrase" />
+        </div>
+        <div class="buttons">
+            <input class="search-btn" type="submit" value="Search" />
+            <a asp-action="Index" class="back-link">Back To List</a>
+        </div>
+    </form>
+</div>
+
+
+<!--ok-->

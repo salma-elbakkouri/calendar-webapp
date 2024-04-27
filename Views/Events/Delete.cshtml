@@ -1,0 +1,55 @@
+﻿@model calendarWebApp.Models.Event
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<link rel="icon" href="./img/logo app 1.png">
+<link rel="stylesheet" href="~/css/delete.css" />
+
+<nav id="navbar">
+    <div class="verticalNav">
+        <div class="month-changer">
+            <button class="icon" onclick="prevMonth()" title="mois precedent"><i id="icon" class="fas fa-chevron-left"></i></button>
+            <div id="month-header">
+            </div>
+            <button class="icon" onclick="nextMonth()" title="mois suivant"><i id="icon" class="fas fa-chevron-right"></i></button>
+        </div>
+        <div>
+            <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-area="" asp-controller="Events" asp-action="Index">Events</a>
+            <a asp-area="" asp-controller="Events" asp-action="ShowSearchForm">Search</a>
+            <a asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+
+        </div>
+
+    </div>
+
+</nav>
+
+<div class="delete-container">
+
+
+    <h1> Delete <span class="change-color">Event</span></h1>
+    <table>
+        <tr class="space-here">
+            <td>@Html.DisplayNameFor(model => model.name)</td>
+            <td>@Html.DisplayFor(model => model.name)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.desc)</td>
+            <td>@Html.DisplayFor(model => model.desc)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.date)</td>
+            <td>@Html.DisplayFor(model => model.date)</td>
+        </tr>
+    </table>
+
+    <form class="buttons" asp-action="Delete">
+        <input type="hidden" asp-for="id" />
+        <input class="delete-btn" type="submit" value="Delete" />
+        <a asp-action="Index" id="backButton" class="back-link">Back to List</a>
+    </form>
+
+
+</div>

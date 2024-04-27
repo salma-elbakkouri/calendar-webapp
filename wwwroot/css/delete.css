@@ -1,0 +1,85 @@
+﻿* {
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
+
+
+
+.delete-container {
+    border: none;
+    background-color: white;
+    margin: 10px;
+    height: fit-content;
+    margin-left: 620px;
+    margin-top: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+table 
+{
+    background-color:white;
+}
+tr>td{
+    padding:10px 30px;
+    background-color:white;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    margin: 5px;
+    margin-bottom:10px;
+    margin-top: 20px;
+}
+
+.change-color {
+    background-color: inherit;
+    color: var(--main-bg-color);
+}
+
+.buttons {
+    background-color:inherit;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.delete-btn {
+    width: 250px;
+    cursor: pointer;
+    padding: 8px 14px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border-radius: 3px;
+    border: none;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+    .delete-btn:hover {
+        background-color: var(--main-bg-color-hover);
+    }
+
+.back-link {
+    font-size: 15px;
+    cursor: pointer;
+    color: #666666;
+    margin-bottom:20px;
+}
+
+    .back-link:hover {
+        color: black;
+    }
+.delete-container > img {
+    width: 97px;
+    height: 97px;
+    margin-left: 100px;
+    margin-top: 110px;
+}
